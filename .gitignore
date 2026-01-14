@@ -1,0 +1,15 @@
+# Large Data Files
+*.h5
+*.mat
+*.pack
+*.idx
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# System Files
+.DS_Store
